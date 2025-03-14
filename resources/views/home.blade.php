@@ -18,5 +18,6 @@ Home
         </x-card>
     @endforeach
 </div>
+<a href="{{ route('about') }}">ABOUT US</a>
 
 @endsection
